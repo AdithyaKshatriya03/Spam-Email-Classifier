@@ -49,5 +49,3 @@ It classifies messages or emails as **Spam** or **Not Spam (Ham)** using text an
 - SMS spam detection
 - Text classification tasks
 
-Adithya Nayak
-
